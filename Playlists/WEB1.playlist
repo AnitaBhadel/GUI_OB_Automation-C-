@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="SeleniumTests.OEOM.OEOMTest" /><Add Test="SeleniumTests.Template.Test_Name" /><Add Test="SeleniumTests.OIOM.OIOMTest" /><Add Test="SeleniumTests.CreditRequest.Credit_Request" /><Add Test="SeleniumTests.CatalogRequest.Catalog_Request" /><Add Test="SeleniumTests.Smoke.SmokeTest" /><Add Test="SeleniumTests.FastPaths.Fast_Path" /></Playlist>

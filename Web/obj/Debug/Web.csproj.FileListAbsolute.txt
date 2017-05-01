@@ -1,0 +1,7 @@
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\bin\Debug\Web.dll
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\bin\Debug\Web.pdb
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\bin\Debug\GUI_Automation.dll
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\bin\Debug\GUI_Automation.pdb
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\obj\Debug\Web.dll
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\Web\obj\Debug\Web.pdb

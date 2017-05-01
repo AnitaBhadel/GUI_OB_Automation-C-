@@ -1,0 +1,5 @@
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\GUI_Automation\bin\Debug\GUI_Automation.dll
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\GUI_Automation\bin\Debug\GUI_Automation.pdb
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\GUI_Automation\obj\Debug\GUI_Automation.dll
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\GUI_Automation\obj\Debug\GUI_Automation.pdb
+C:\Users\PaneraRoom\Documents\Visual Studio 2015\Projects\GUI_Automation\GUI_Automation\obj\Debug\GUI_Automation.csprojResolveAssemblyReference.cache
